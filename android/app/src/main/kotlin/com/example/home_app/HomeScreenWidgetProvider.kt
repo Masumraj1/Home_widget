@@ -1,5 +1,4 @@
-package com.example.home_app  // your package name
-
+package com.example.home_app
 import android.appwidget.AppWidgetManager
 import android.content.Context
 import android.content.SharedPreferences
