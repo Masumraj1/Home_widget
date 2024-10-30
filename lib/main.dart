@@ -9,6 +9,8 @@ void main() {
   runApp(const MyApp());
 }
 
+
+
 // Called when an interactivity event occurs from the widget
 Future<void> interactivityCallback(Uri? uri) async {
   if (uri?.host == 'updatecounter') {
